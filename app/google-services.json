@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063433318298",
+    "project_id": "solarify-bbea5",
+    "storage_bucket": "solarify-bbea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063433318298:android:f638ed39e66a9e2f4b5423",
+        "android_client_info": {
+          "package_name": "com.example.solarify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa8BsBZUjAZxv4NnZCYbahx6HO-iA538I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
